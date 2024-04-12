@@ -1,17 +1,16 @@
 # 适用于Unity的改进型LitJson库
 
-
 # 基于 `https://github.com/XINCGer/LitJson4Unity` 二次包装
 
 该库主要服务于 `https://github.com/AlianBlank/GameFrameX` 作为子库使用。
 
-
 # 使用方式(三种方式)
+
 1. 直接在 `manifest.json` 文件中添加以下内容
    ```json
-      {"com.xincger.litjson": "https://github.com/AlianBlank/com.xincger.litjson.git"}
+      {"com.alianblank.gameframex.unity.xincger.litjson": "https://github.com/AlianBlank/com.alianblank.gameframex.unity.xincger.litjson.git"}
     ```
-2. 在Unity 的`Packages Manager` 中使用`Git URL` 的方式添加库,地址为：https://github.com/AlianBlank/com.xincger.litjson.git
+2. 在Unity 的`Packages Manager` 中使用`Git URL` 的方式添加库,地址为：https://github.com/AlianBlank/com.alianblank.gameframex.unity.xincger.litjson.git
 
 3. 直接下载仓库放置到Unity 项目的`Packages` 目录下。会自动加载识别
 
