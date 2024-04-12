@@ -1,7 +1,11 @@
-﻿namespace LitJson
+﻿using UnityEngine.Scripting;
+
+namespace LitJson
 {
+    [Preserve]
     public class LitJsonCroppingHelper : UnityEngine.MonoBehaviour
     {
+        [Preserve]
         public void Start()
         {
             _ = typeof(LitJson.ArrayMetadata);
