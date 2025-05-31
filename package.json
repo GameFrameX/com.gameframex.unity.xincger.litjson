@@ -1,7 +1,7 @@
 {
   "name": "com.gameframex.unity.xincger.litjson",
   "displayName": "LitJSON",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2017.1",
   "description": "适用于Unity的改进型LitJson库",
   "author": {
@@ -13,6 +13,5 @@
     "url": "https://github.com/XINCGer/LitJson4Unity.git"
   },
   "relatedPackages": {},
-  "dependencies": {
-  }
+  "dependencies": {}
 }
