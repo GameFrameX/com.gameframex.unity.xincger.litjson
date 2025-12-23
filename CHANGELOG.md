@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gameframex/com.gameframex.unity.xincger.litjson/compare/1.0.2...1.1.0) (2025-12-23)
+
+
+### Features
+
+* **ci:** change ci ([a58af01](https://github.com/gameframex/com.gameframex.unity.xincger.litjson/commit/a58af0161cfe6e11783e1faa7ffd6a9bdf718a5f))
+
 # Changelog
 
 ## [1.0.2](https://github.com/GameFrameX/com.gameframex.unity.xincger.litjson/tree/1.0.2) (2025-06-01)
